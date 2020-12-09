@@ -9,6 +9,16 @@
     box-sizing: inherit;
 }
 
+
+.section_two {
+    /* display: inline-block; */
+    width: 700px;
+    /* margin: auto; */
+    height: 400px;
+
+}
+
+
 body, .site-header {
     font-family: 'Roboto' , sans-serif;
     font-weight: 300;
@@ -29,7 +39,7 @@ a {
     text-decoration: none;
 }
 img{ 
-    height: auto;
+    cursor: pointer;
 }
 audio, canvas, iframe, img, svg, video {
     vertical-align: middle;
@@ -101,6 +111,7 @@ h2 {
 p {
     margin-bottom: 1.5rem;
     font-size: 1.125rem;
+    text-align: justify;
 }
 
 
