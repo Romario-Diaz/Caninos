@@ -162,7 +162,7 @@ p {
 }
 
 .site-nav-trigger span:before, .site-nav-trigger span:after, .site-nav-trigger span {
-    background-color: ;
+    /* background-color: ; */
 }
 
 @media (min-width: 1040px)
